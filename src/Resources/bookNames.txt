@@ -1,0 +1,90 @@
+Genesis:genesis,gen.,gen
+Exodus:exodus,ex.,ex
+Leviticus:leviticus,lev.,lev
+Numbers:numbers,num.,num
+Deuteronomy:deuteronomy,deut.,deut
+Joshua:joshua,josh.,josh
+Judges:judges,judg,judg.
+Ruth:ruth
+1 Samuel:1 samuel,1 sam.,1 sam
+2 Samuel:2 samuel,2 sam.,2 sam
+1 Kings:1 kings,1 kgs.,1 kgs
+2 Kings:2 kings,2 kgs.,2 kgs
+1 Chronicles:1 chronicles,1 chr,1 chr.
+2 Chronicles:2 chronicles,2 chr.,2 chr
+Ezra:ezra
+Nehemiah:nehemiah,neh,neh.
+Esther:esther,esth,esth.
+Job:job
+Psalms:psalms,ps,ps.
+Proverbs:proverbs,prov,prov.
+Ecclesiastes:ecclesiastes,eccl,eccl.
+Song of Solomon:song of solomon,song
+Isaiah:isiah,isa,isa.
+Jeremiah:jeremiah,jer,jer.
+Lamentations:lamentations,lam,lam.
+Ezekiel:ezekiel,ezek,ezek.
+Daniel:daniel,dan,dan.
+Hosea:hosea
+Joel:joel
+Amos:amos
+Obadiah:obad,obad.
+Jonah:jonah
+Micah:micah
+Nahum:nahum
+Habakkuk:habakkuk,hab,hab.
+Zephaniah:zephaniah,zeph,zeph.
+Haggai:haggai,hag,hag.
+Zechariah:zechariah,zech,zech.
+Malachi:malachi,mal,mal.
+Matthew:matthew,matt,matt.
+Mark:mark
+Luke:luke
+John:john
+Acts of the Apostles:Acts
+Romans:romans,rom,rom.
+1 Corinthians:1 corinthians,1 cor,1 cor.
+2 Corinthians:2 corinthians,2 cor,2 cor.
+Galatians:galatians,gal,gal.
+Ephesians:ephesians,eph,eph.
+Philippians:philippians,philip,philip.
+Colossians:colossians,col.
+1 Thessalonians:1 thessalonians,1 thes,1 thes.
+2 Thessalonians:2 thessalonians,2 thes,2 thes.
+1 Timothy:1 timothy,1 tim,1 tim.
+2 Timothy:2 timothy,2 tim,2 tim.
+Titus:titus
+Philemon:philemon,philem,philem.
+Hebrews:hebrews,heb,heb.
+James:james
+1 Peter:1 peter,1 pet,1 pet.
+2 Peter:2 peter,2 pet,2 pet.
+1 John:1 john,1 jn,1 jn.
+2 John:2 john,2 jn,2 jn.
+3 John:3 john,3 jn,3 jn.
+Jude:jude
+Revelation:revelation,rev,rev.
+1 Nephi:1 nephi,1 ne,1 ne.
+2 Nephi:2 nephi,2 ne,2 ne.
+Jacob:jacob
+Enos:enos
+Jarom:jarom
+Omni:omni
+Words of Mormon:words of mormon,w of m
+Mosiah:mosiah
+Alma:alma
+Helaman:helaman,hel,he.
+3 Nephi:3 nephi,3 ne,3 ne.
+4 Nephi:4 nephi,4 ne,4 ne.
+Mormon:mormon,morm,morm.
+Ether:ether
+Moroni:moroni,moro,moro.
+Doctrine and Covenants:doctrine and covenants,d&c
+Official Declaration-1:official declaration-1,od—1
+Official Declaration-2:official declaration-2,od—2
+Moses:moses
+Abraham:abraham,abr,abr.
+Joseph Smith-Matthew:joseph smith-matthew,js-m
+Joseph Smith-History:joseph smith-history,js-h
+The Articles of Faith:articles of faith,a of f
+Joseph Smith Translation:joseph smith translation,jst
